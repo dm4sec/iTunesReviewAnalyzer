@@ -1,0 +1,3 @@
+[submodule "EPFDataCrawler/EPFDownloader"]
+	path = EPFDataCrawler/EPFDownloader
+	url = https://github.com/dm4sec/epf_downloader.git
